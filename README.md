@@ -1,8 +1,6 @@
 # Alzheimer-Disease-Detection
 
-The aim of this project is to use features extracted from MRI images, together with additional data, retrieved from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database (http://adni.loni.ucla.edu/ and www.adni-info.org) to classify the healthy cognitive normal (CN) subjects and patients with Alzheimer's Disease (AD)
-
-These features come from a number of healthy cognitively normal (CN) subjects and patients with Alzheimer’s Disease (AD).
+This project aim to use features extracted from MRI images, together with additional data, retrieved from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database (http://adni.loni.ucla.edu/ and www.adni-info.org) to detect patients with Alzheimer's Disease (AD) and classify them from normal subjects. Two classifiers were chosen for the project; Naives bayes and KNearest Neighbor.
 
 ## Dataset Description
 
